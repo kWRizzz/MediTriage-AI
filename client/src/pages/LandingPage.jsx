@@ -21,6 +21,17 @@ const LandingPage = () => {
 
       {/* navigation */}
       <NavBar/>
+
+      {/* <------------Main-Hero-----------> */}
+      <main
+        className=' max-w-[1400px]  mx-auto px-8 pt-16 pb-24 '
+      >
+        <div
+          className=' grid grid-cols-1 lg:grid-cols-2 gap-16 items-center'
+        >
+          
+        </div>
+      </main>
     </div>
   )
 }
